@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Chona
 #### I am developer looking to just code
-I amd very much interested in learning new technolgies and how to implement them in new projects.
+I am very much interested in learning new technolgies and how to implement them in new projects.
 
 Skills: C# / JavaScript / HTML / MS SQL
 
