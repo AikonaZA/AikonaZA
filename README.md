@@ -4,7 +4,7 @@ I am very much interested in learning new technolgies and how to implement them 
 
 Skills: C# / JavaScript / HTML / MS SQL
 
-- 🔭 I’m currently working on landing that job 
+- 🔭 I’m currently employed at JAS Shared Services as a Junior Software Developer 
 - 🌱 I’m currently learning Unreal Engine 5 and Bootstrap 
 - 💬 Ask me about my interest in RPG games 
 - 📫 How to reach me: [email](mailto:chonajvr@gmail.com) 
