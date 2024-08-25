@@ -7,7 +7,6 @@ Hello! 👋 I'm a passionate software developer based in South Africa with a kee
 - 🔭 I’m currently working on [LifeTrack], a comprehensive application designed to help individuals track their life's various aspects.
 - 🌱 I’m continuously learning and improving my skills in .Net Core application development and the latest strategies to enhance my projects.
 - 🎮 I have a deep interest in game development, focusing on Unreal Engine 5 for creating immersive experiences.
-- 🖥️ Founder of **Twin Brothers Development**, a software development studio.
 
 ## Projects
 
