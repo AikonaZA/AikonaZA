@@ -37,7 +37,7 @@ I am actively involved in developing games and asset packs using Unreal Engine 5
 I'm always open to discussing new projects, collaborations, or opportunities to share knowledge. Feel free to reach out to me via the following platforms:
 
 - **GitHub**: https://github.com/aikonaza
-- **LinkedIn**: [Your LinkedIn Profile Link]
+- **LinkedIn**: www.linkedin.com/in/chona-janse-van-rensburg-910410190
 - **Twitter**: [Your Twitter Handle]
 
 ## Support
